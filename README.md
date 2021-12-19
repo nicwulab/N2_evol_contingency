@@ -18,7 +18,7 @@ This README describes the analyses in the study: Pending URL
 * Raw read files in fastq format from NIH SRA database [BioProject PRJNA790468](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA790468)
 
 ### Identifying permissive mutations for N387K
-1. Merge overlapping paired-end reads   
+1. Merge overlapping paired-end reads using [PEAR](https://github.com/tseemann/PEAR)  
 ```pear -f [FASTQ FILE FOR FORWARD READ] -r [FASTQ FILE FOR FORWARD READ] -o [OUTPUT FASTQ FILE]```
     - Output files should be placed in the fastq/ folder and named as:
       - SD93_ipt.assembled.fastq for input library
