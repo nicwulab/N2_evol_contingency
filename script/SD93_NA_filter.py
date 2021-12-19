@@ -1,9 +1,4 @@
 #!/usr/bin/python
-import os
-import sys
-import numpy as np
-from Bio import SeqIO
-from collections import Counter
 
 def convert_ID_seq(mutlist, muts):
   seq = ''
