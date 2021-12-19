@@ -1,11 +1,16 @@
 ## Evolutionary contingency in human H3N2 influenza neuraminidase   
+This README describes the analyses in the study: Pending URL
 
+### Contents
+* [Identifying permissive mutations for N387K](#Identifying-permissive-mutations-for-N387K)
+* [Identifying permissive mutations for N336H](#Identifying-permissive-mutations-for-N336H)
 
 ### Dependencies    
-* python=3.9
+* [Python3](https://www.python.org/) 
 * [PEAR](https://github.com/tseemann/PEAR)
 * [BioPython](https://github.com/biopython/biopython)
 * [Distance](https://pypi.org/project/Distance/)
+* [R](https://www.r-project.org/)
 
 ### Input files   
 * [./Fasta/SD93_mutlib_ref.fa](./Fasta/SD93_mutlib_ref.fa): Reference sequence for SD93 mutant library
