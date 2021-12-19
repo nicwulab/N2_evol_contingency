@@ -8,7 +8,7 @@
 * Raw read files in fastq format from XXXXXXX
 
 ### Identifying permissive mutations for N387K
-1. Merge overlapping paired-end reads
+1. Merge overlapping paired-end reads   
 ```pear -f [FASTQ FILE FOR FORWARD READ] -r [FASTQ FILE FOR FORWARD READ] -o [OUTPUT FASTQ FILE]```
     - Output files should be named as:
       - SD93_ipt.fastq for input library
