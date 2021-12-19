@@ -1,5 +1,5 @@
 ## Evolutionary contingency in human H3N2 influenza neuraminidase   
-This README describes the analyses in the study: Pending URL
+This README describes the deep sequencing analysis in the study: Pending URL
 
 ### Contents
 * [Identifying permissive mutations for N387K](#Identifying-permissive-mutations-for-N387K)
