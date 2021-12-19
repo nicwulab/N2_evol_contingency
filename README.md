@@ -68,14 +68,14 @@ Pending URL
     - Output files:
       - [./result/Bil69_MultiMutLib.tsv](./result/Bil69_MultiMutLib.tsv)
 
-3. Filter irrelevant variants
+3. Filter irrelevant variants   
 ```python3 script/Bil69_NA_filter.py```
     - Input file:
       - [./result/Bil69_MultiMutLib.tsv](./result/Bil69_MultiMutLib.tsv)
     - Output file:
       - [./result/Bil69_MultiMutLib_filtered.tsv](./result/Bil69_MultiMutLib_filtered.tsv)
 
-4. Plot enrichment of each variant
+4. Plot enrichment of each variant   
 ```Rscript script/Bil69_NA_plot_enrich.R```
     - Input file:
       - [./result/Bil69_MultiMutLib.tsv](./result/Bil69_MultiMutLib.tsv)
