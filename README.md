@@ -1,6 +1,6 @@
 ## Evolutionary contingency in human H3N2 influenza neuraminidase   
 This README describes the deep sequencing analysis in:   
-Pending URL
+[Prevalence and mechanisms of evolutionary contingency in human influenza H3N2 neuraminidase](https://www.biorxiv.org/content/10.1101/2022.02.24.481718v1)
 
 ### Contents
 * [Identifying permissive mutations for N387K](#Identifying-permissive-mutations-for-N387K)
