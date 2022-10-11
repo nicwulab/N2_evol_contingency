@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/376881476.svg)](https://zenodo.org/badge/latestdoi/376881476)
+
 ## Evolutionary contingency in human H3N2 influenza neuraminidase   
 This README describes the deep sequencing analysis in:   
 [Prevalence and mechanisms of evolutionary contingency in human influenza H3N2 neuraminidase](https://www.biorxiv.org/content/10.1101/2022.02.24.481718v1)
